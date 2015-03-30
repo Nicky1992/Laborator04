@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Contacts Manager</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="show_additional_fields">Show Additional Fields</string>
+    <string name="hide_additional_fields">Hide Additional Fields</string>
+    <string name="Name">Name</string>
+    <string name="Tel">Tel</string>
+    <string name="Email">Email</string>
+    <string name="Address">Address</string>
+    <string name="Save">Save</string>
+    <string name="Cancel">Cancel</string>
+    <string name="job">Job Title</string>
+    <string name="Company">Company</string>
+    <string name="Website">Website</string>
+    <string name="IM">IM</string>
+    <string name="phone_error">Error</string>
+
+</resources>
